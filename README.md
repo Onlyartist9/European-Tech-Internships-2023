@@ -59,3 +59,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Data-Business-Analyst-Intern-Placement-year-UK/1384132) | Feltham, United Kingdom | Data / Business Analyst Intern |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Network-Engineer-Intern-Placement-Year-UK/1384138) | Feltham, United Kingdom | Network Engineer Intern |
 | [P&G](https://www.pgcareers.com/job/newcastle-upon-tyne/information-technology-summer-internship-2023/936/35273250608?source=RS_INDEED) | Newcastle upon Tyne, England, United Kingdom; Weybridge, England, United Kingdom | Information Technology intern |
+| [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/4518812) | Dublin, Ireland | Software Engineering Intern |
