@@ -60,3 +60,10 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Network-Engineer-Intern-Placement-Year-UK/1384138) | Feltham, United Kingdom | Network Engineer Intern |
 | [P&G](https://www.pgcareers.com/job/newcastle-upon-tyne/information-technology-summer-internship-2023/936/35273250608?source=RS_INDEED) | Newcastle upon Tyne, England, United Kingdom; Weybridge, England, United Kingdom | Information Technology intern |
 | [Stripe](https://stripe.com/jobs/listing/software-engineering-intern/4518812) | Dublin, Ireland | Software Engineering Intern |
+| [JP Morgan Chase & Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210315729/?utm_medium=jobshare&src=Indeed) |  London, United Kingdom | 2023 AI & Data Science Analyst |
+| [JP Morgan Chase & Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210315692/?utm_medium=jobshare&src=Indeed) | London, United Kingdom  |  Quantitative Analytics Analyst |
+| [Bank of America](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-984e146c0e58/candidate/so/pm/1/pl/1/opp/8861-Global-Technology-Software-Engineer-Summer-2023-Analyst-Chester/en-GB) | Chester, London  | Global Technology Software Engineer |
+| [Bank of America](https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/xf-984e146c0e58/candidate/so/pm/1/pl/1/opp/8852-Global-Technology-Infrastructure-Application-Service-Engineer-Summer-2023-Analyst-Chester/en-GB) | Chester, London | Global Technology Infrastructure/Application Service Engineer |
+| [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Cork-IRL/Intern-Cyber-Security-Engineer--2023--Cork_3042537) | Ireland | Intern Cyber Security Engineer |
+| [Genesys](https://genesys.referrals.selectminds.com/jobs/internship-software-engineer-data-science-10849) | Ireland | Software Engineer, Data Science intern |
+| [JPMorgan Chase and & Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210277425/?utm_medium=jobshare&src=Indeed) | Dublin, Ireland | Software Engineer intern |
