@@ -67,3 +67,8 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Qualcomm](https://qualcomm.wd5.myworkdayjobs.com/en-US/External/job/Cork-IRL/Intern-Cyber-Security-Engineer--2023--Cork_3042537) | Ireland | Intern Cyber Security Engineer |
 | [Genesys](https://genesys.referrals.selectminds.com/jobs/internship-software-engineer-data-science-10849) | Ireland | Software Engineer, Data Science intern |
 | [JPMorgan Chase and & Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210277425/?utm_medium=jobshare&src=Indeed) | Dublin, Ireland | Software Engineer intern |
+| [Fundapps](https://jobs.lever.co/fundapps/0be59777-221a-483f-8a81-6a2f6066be0c) | London,England  | Back-End Engineering intern |
+| [Citi](https://jobs.citi.com/job/-/-/287/35515199792) |  London, United Kingdom | Software Engineer Intern |
+| [Google](https://careers.google.com/jobs/results/102767844015383238-research-intern-2023/) | London, United Kingdom | Research Intern |
+| [Amazon](https://www.amazon.jobs/en/jobs/2222314/2023-applied-science-internship-machine-learning-deep-learning-nlp-nlu-machine-translation) | London, United Kingdom | Applied Science Internship |
+| [TikTok](https://careers.tiktok.com/position/7138413101808486693/detail) | London,United Kingdom | System Software Engineer |
