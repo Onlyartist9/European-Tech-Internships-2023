@@ -72,3 +72,13 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Google](https://careers.google.com/jobs/results/102767844015383238-research-intern-2023/) | London, United Kingdom | Research Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2222314/2023-applied-science-internship-machine-learning-deep-learning-nlp-nlu-machine-translation) | London, United Kingdom | Applied Science Internship |
 | [TikTok](https://careers.tiktok.com/position/7138413101808486693/detail) | London,United Kingdom | System Software Engineer |
+| [Google](https://careers.google.com/jobs/results/143356178315780806-software-engineering-or-site-reliability-engineering-intern-2023/) | London United Kingdom,Dublin Ireland | Software Engineering or Site Reliability Engineering Intern |
+| [Optiver](https://optiver.com/working-at-optiver/career-opportunities/6351082002/?gh_jid=6351082002&gh_src=3dd81fd02us) | Amsterdam,Netherlands | Quantitative Research Internship |
+| [IMC](https://careers.imc.com/us/en/job/REQ-02226/Software-Engineer-Intern) | Amsterdam, Netherlands  | Software Engineer Intern |
+|  [Microsoft](https://careers.microsoft.com/us/en/job/1458642/Explore-Microsoft-Cloud-Solution-Architecture-Intern-Opportunities-for-University-Students-and-Graduates-Netherlands?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed) | Amsterdam, Netherlands | Cloud Solution Architecture Intern |
+| [Google](https://careers.google.com/jobs/results/120298869725504198-software-engineering-or-site-reliability-engineering-intern-2023/) | Munich Germany | Software Engineering or Site Reliability Engineering Intern |
+| [Amazon](https://www.amazon.jobs/en/jobs/2205822/2023-software-development-engineer-internship) | Germany | Software Development Engineer Internship |
+| [Citi](https://jobs.citi.com/job/-/-/287/35727545248) | London,United Kingdom  | Information Security, Summer Intern |
+| [Microsoft](https://careers.microsoft.com/us/en/job/1460288/Technical-Program-Manager-Internship-Opportunities-Azure-for-Operators-Division-UK-Start-date-Summer-2023?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed) | London, United Kingdom | Technical Program Manager Internship | 
+| [TikTok](https://careers.tiktok.com/position/7139189931088578829/detail) | London, United Kingdom | Software Engineer Intern, Infrastructure  |
+|[TikTok](https://careers.tiktok.com/position/7138419538228873485/detail) | London, United Kingdom | Machine Learning Fairness PhD Intern | 
