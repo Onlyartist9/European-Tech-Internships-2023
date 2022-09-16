@@ -101,3 +101,5 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560595?t=bbda0eea1us) | Paris, France | Research Scientist Intern | 
 | [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560627?t=bbda0eea1us) | Paris, France | Research Engineer Intern |
 | [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560623?t=bbda0eea1us) | London, United Kingdom | Research Engineer Intern |
+| [Barclays](https://search.jobs.barclays/job/-/-/22545/35934848064) | London, United Kingdom | Technology Analyst intern |
+| [Fundapps](https://jobs.lever.co/fundapps/de5aafc9-bfd5-4ddd-8d0f-a68cc2f5910d) | London, United Kingdom | Front-end engineering intern |
