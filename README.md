@@ -103,3 +103,9 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560623?t=bbda0eea1us) | London, United Kingdom | Research Engineer Intern |
 | [Barclays](https://search.jobs.barclays/job/-/-/22545/35934848064) | London, United Kingdom | Technology Analyst intern |
 | [Fundapps](https://jobs.lever.co/fundapps/de5aafc9-bfd5-4ddd-8d0f-a68cc2f5910d) | London, United Kingdom | Front-end engineering intern |
+| [Dell](https://jobs.dell.com/job/dublin/data-science-intern/375/36297638352) | Dublin, Ireland | Data Science Intern |
+| [AMD](https://jobs.amd.com/job/Dublin-Software-Engineering-Intern-Irel/936050300/) | Dublin, Ireland | Software Engineering Intern |
+| [Roku](https://www.weareroku.com/jobs/software-engineer-student-network-2023-cambridge-england-united-kingdom?source=indeed) | Cambridge, United Kingdom | Software Engineering intern  | 
+| [Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Birmingham-GBR/Intern--Software-Engineer--starting-Summer-2023-_22WD63441-1) | Birmingham, United Kingdom | Software Engineering intern |
+| [Google](https://careers.google.com/jobs/results/106620632080229062-associate-product-manager-intern-summer-2023/) | London, United Kingdom | Associate Product Manager Intern |
+| [Amazon](https://www.amazon.jobs/en/jobs/2227915/associate-solutions-architect-intern) | London, United Kingdom | Associate Solutions Architect Intern |
