@@ -109,3 +109,6 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Birmingham-GBR/Intern--Software-Engineer--starting-Summer-2023-_22WD63441-1) | Birmingham, United Kingdom | Software Engineering intern |
 | [Google](https://careers.google.com/jobs/results/106620632080229062-associate-product-manager-intern-summer-2023/) | London, United Kingdom | Associate Product Manager Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2227915/associate-solutions-architect-intern) | London, United Kingdom | Associate Solutions Architect Intern |
+| [AMD](https://jobs.amd.com/job/Dublin-FPGA-Software-Verification-Engineer-%28Intern%29-Irel/936047200/) | Dublin, Ireland | FPGA Software Verification Engineer intern |
+| [AMD](https://jobs.amd.com/job/Dublin-Software-Engineering-Intern-Irel/936050300/) | Dublin, Ireland | Software Engineering Intern |
+| [AMD](https://jobs.amd.com/job/Cork-IC-Design-Engineering-Intern-Irel/936024800/) | Dublin, Ireland | IC Design Engineering Intern | 
