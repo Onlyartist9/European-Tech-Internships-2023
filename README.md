@@ -109,3 +109,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [AMD](https://jobs.amd.com/job/Dublin-FPGA-Software-Verification-Engineer-%28Intern%29-Irel/936047200/) | Dublin, Ireland | FPGA Software Verification Engineer intern |
 | [AMD](https://jobs.amd.com/job/Dublin-Software-Engineering-Intern-Irel/936050300/) | Dublin, Ireland | Software Engineering Intern |
 | [AMD](https://jobs.amd.com/job/Cork-IC-Design-Engineering-Intern-Irel/936024800/) | Dublin, Ireland | IC Design Engineering Intern | 
+| [Microsoft](https://careers.microsoft.com/us/en/job/1469965/Data-Applied-Sciences-Internship-Opportunities-GERMANY-Start-Date-Summer-2023?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed) | Munich, Germany | Data & Applied Sciences Internship |
