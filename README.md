@@ -8,7 +8,6 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | Company Name  |   Location    | Description  |
 | ------------- | ------------- | ------------ |
 | [Microsoft](https://careers.microsoft.com/us/en/job/1382836/Intern-Opportunities-for-Students-in-Czech-Republic-Software-Engineering-Start-date-Summer-2023?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)  | Czech Republic |         Software Engineering      |
-| [Avast](https://avast.wd3.myworkdayjobs.com/en-US/Global/job/Brno-Czech-Republic/Development-Intern_JR1922) | Czech Republic | Development Intern |
 | [McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/intern-digitaltechnology-51626) | Switzerland | Digital Technology |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1383150/Intern-Opportunities-for-Students-in-Estonia-Software-Engineering-Start-date-Summer-2023) | Estonia | Software Engineering |
 | [Accenture](https://www.accenture.com/be-en/careers/jobdetails?id=R00114886_en&title=Security+Internship) | Belgium | Security Internship |
