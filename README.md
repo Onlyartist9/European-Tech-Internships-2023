@@ -92,7 +92,7 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6311301002/) | London, United Kingdom | Software Engineer Intern |
 | [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560636?t=bbda0eea1us) | London, United Kingdom | Science Software Engineer Intern |
 | [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4564736?t=bbda0eea1us) | London, United Kingdom | Software Engineer Intern |
-| [Deepmdind](https://boards.greenhouse.io/deepmind/jobs/4560602?t=bbda0eea1us) | London, United Kingdom | Research Scientist Intern |
+| [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560602?t=bbda0eea1us) | London, United Kingdom | Research Scientist Intern |
 | [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560595?t=bbda0eea1us) | Paris, France | Research Scientist Intern | 
 | [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560627?t=bbda0eea1us) | Paris, France | Research Engineer Intern |
 | [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560623?t=bbda0eea1us) | London, United Kingdom | Research Engineer Intern |
