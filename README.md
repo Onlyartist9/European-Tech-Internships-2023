@@ -22,8 +22,6 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Mckinsey](https://www.mckinsey.com/careers/search-jobs/jobs/associateintern-mckinseydigital-58530) | Germany,Austria(Vienna) | Associate Intern - McKinsey Digital |
 | [Deloitte](https://jobs.deloitte.lu/job/Luxembourg-Fullstack-Developer-Intern-Angular_Net-%28mf%29-Internship-based-in-Luxembourg/820543901/) | Luxembourg | Fullstack Developer Intern |
 | [Apple](https://jobs.apple.com/en-us/details/200308667/soc-digital-design-intern?team=HRDWR) | Germany | SOC Digital Design Intern |
-| [IBM](https://careers.ibm.com/job/16350702/research-intern-2023-start-mulhuddart-ie/?codes=JB_Indeed) | Ireland | Research Intern |
-| [IBM](https://careers.ibm.com/job/16035211/paid-internship-devops-engineer-remote/?codes=IBM_CareerWebSite) | Lithuania | DevOps Engineer |
 | [Nordic Semiconductor](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=278&ProjectId=177144&DepartmentId=7392&MediaId=5&SkipAdvertisement=False) | United Kingdom | Digital Design Placement |
 | [DRW](https://drw.com/work-at-drw/job/software-developer-intern-2317368/) | London, United Kingdom | Software Developer Intern |
 | [DRW](https://drw.com/work-at-drw/job/quantitative-trading-analyst-intern-2317347/) | London, United Kingdom | Quantitative Trading Analyst Intern |
