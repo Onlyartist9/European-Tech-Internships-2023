@@ -104,3 +104,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Ensoft-Software-Engineer-Internship/1384960) | Harpenden, United Kingdom | Software Engineer Internship |
 | [JP Morgan Chase & Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210339047/?utm_medium=jobshare&src=Indeed) | London, UK | Systematic Trading Internship |
 | [JP Morgan Chase and Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210315692/?utm_medium=jobshare&src=Indeed) |  London, United Kingdom  | Quantitative Analytics Analyst Summer Internship |
+| [JP Morgan Chase and Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210312635/?utm_medium=jobshare&src=Indeed) | London, United Kingdom | Research Technologies Associate Internship |
