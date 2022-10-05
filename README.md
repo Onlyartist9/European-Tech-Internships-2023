@@ -88,12 +88,6 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs/job/Poland-Warsaw/Math-Libraries-Intern---2023_JR1961067) | Warsaw, Poland | Math Libraries intern |
 | [Optiver](https://optiver.com/working-at-optiver/career-opportunities/6350969002/?gh_jid=6350969002&gh_src=5a4956c42us) | Amsterdam,Netherlands | Data Science Summer Intern |
 | [Jane Street](https://www.janestreet.com/join-jane-street/position/6311301002/) | London, United Kingdom | Software Engineer Intern |
-| [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560636?t=bbda0eea1us) | London, United Kingdom | Science Software Engineer Intern |
-| [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4564736?t=bbda0eea1us) | London, United Kingdom | Software Engineer Intern |
-| [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560602?t=bbda0eea1us) | London, United Kingdom | Research Scientist Intern |
-| [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560595?t=bbda0eea1us) | Paris, France | Research Scientist Intern | 
-| [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560627?t=bbda0eea1us) | Paris, France | Research Engineer Intern |
-| [Deepmind](https://boards.greenhouse.io/deepmind/jobs/4560623?t=bbda0eea1us) | London, United Kingdom | Research Engineer Intern |
 | [Barclays](https://search.jobs.barclays/job/-/-/22545/35934848064) | London, United Kingdom | Technology Analyst intern |
 | [Fundapps](https://jobs.lever.co/fundapps/de5aafc9-bfd5-4ddd-8d0f-a68cc2f5910d) | London, United Kingdom | Front-end engineering intern |
 | [Dell](https://jobs.dell.com/job/dublin/data-science-intern/375/36297638352) | Dublin, Ireland | Data Science Intern |
