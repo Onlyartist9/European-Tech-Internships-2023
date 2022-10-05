@@ -102,3 +102,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [Microsoft](https://careers.microsoft.com/us/en/job/1469965/Data-Applied-Sciences-Internship-Opportunities-GERMANY-Start-Date-Summer-2023?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed) | Munich, Germany | Data & Applied Sciences Internship |
 | [Visa](https://jobs.smartrecruiters.com/Visa/743999855121970-summer-intern-software-engineering-and-testing) | Reading, UK | Software Engineering and Testing |
 | [Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Ensoft-Software-Engineer-Internship/1384960) | Harpenden, United Kingdom | Software Engineer Internship |
+| [JP Morgan Chase & Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210339047/?utm_medium=jobshare&src=Indeed) | London, UK | Systematic Trading Internship |
