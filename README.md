@@ -106,3 +106,4 @@ Feel free to contribute by sending a [pull request](https://docs.github.com/en/p
 | [JP Morgan Chase and Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210315692/?utm_medium=jobshare&src=Indeed) |  London, United Kingdom  | Quantitative Analytics Analyst Summer Internship |
 | [JP Morgan Chase and Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210312635/?utm_medium=jobshare&src=Indeed) | London, United Kingdom | Research Technologies Associate Internship |
 | [JP Morgan Chase and Co](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210277187/?utm_medium=jobshare&src=Indeed) | Bournemouth, Glasgow & London, UK | Software Engineer Program - Summer Internship |
+| [Flexport](https://boards.greenhouse.io/flexport/jobs/4630133?gh_src=5723c0551us) | Amsterdam, Netherlands | Summer Data Analytics Intern |
